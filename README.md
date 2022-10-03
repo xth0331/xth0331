@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **xth0331/xth0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+some certifications:
+- <a href="https://www.credly.com/badges/8013f32c-72d4-49cc-9e92-0ecc25709405/public_url"><img src="/images/cka.png" width="16" alt="CKA">&nbsp;CKA: Certified Kubernetes Administrator</a>
