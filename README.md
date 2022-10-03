@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-some certifications:
+#### Some certifications:
 - <a href="https://www.credly.com/badges/8013f32c-72d4-49cc-9e92-0ecc25709405/public_url"><img src="/images/cka.png" width="16" alt="CKA">&nbsp;CKA: Certified Kubernetes Administrator</a>
